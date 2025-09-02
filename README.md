@@ -92,7 +92,7 @@ We welcome contributions! Please follow these steps:
 
 ### Issues
 
-If you find a bug or have a feature request, please [open an issue](https://github.com/your-username/afc_website/issues).
+If you find a bug or have a feature request, please [open an issue](https://github.com/your-username/website/issues).
 
 ## License
 
